@@ -1,0 +1,12 @@
+.friend-list-container {
+  height: 100px;
+  width: 100px;
+  text-align: left;
+  position: relative;
+  margin-left: 30px;
+}
+
+.friend-name-text {
+  color: black;
+  font-size: 16px;
+}

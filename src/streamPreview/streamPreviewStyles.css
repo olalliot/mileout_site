@@ -1,0 +1,33 @@
+.container {
+  background-color: white;
+  align-items: center;
+  vertical-align: top;
+  text-align: center;
+  width: calc(300px + 7vmin);
+  height: 25%;
+  margin: 0 auto;
+  margin-bottom: 10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.coverPhoto {
+  margin-top: 0.5vmin;
+  height: 25%;
+  width: calc(270px + 10vmin);
+}
+
+.coverTitle {
+  font-weight: 900;
+  font-family: Aileron;
+  font-size: calc(20px + 2vmin);
+  color: #434a5e;
+}
+
+.barLink {
+  color: #434a5e;
+  text-decoration: none;
+}
+
+.stream-preview-link {
+  text-decoration: none;
+}

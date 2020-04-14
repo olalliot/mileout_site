@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Aileron';
+  src: local('Aileron'), url(./Aileron/Aileron-Heavy.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Aileron-Light';
+  src: local('Aileron-Light'), url(./Aileron/Aileron-Light.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'ColorTube';
+  src: local('ColorTube'), url(./Cunia/Cunia.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Aileron-Semi';
+  src: local('Aileron-SemiBold'), url(./Aileron/Aileron-SemiBold.ttf) format('truetype');
+}

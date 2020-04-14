@@ -1,0 +1,36 @@
+.beta-test-body {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.beta-test-body-mobile {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.announcement-container-beta {
+  background-color: #B9F6CA;
+  margin: 0 auto;
+  height: calc(50px + 3vh);
+  text-align: center;
+}
+
+.announcement-beta {
+  color: #2e7d32;
+  font-family: Aileron;
+  font-size: calc(14px + 1vmin);
+  padding-top: calc(13px + 1vmin);
+}
+
+.section-title-beta {
+  color: #00e676;
+  font-size: calc(15px + 2vmin);
+  font-family: Aileron;
+}
+
+.section-body-beta {
+  font-family: Aileron-Semi;
+  color: black;
+  text-align: justify;
+  font-size: calc(11px + 1vmin);
+}

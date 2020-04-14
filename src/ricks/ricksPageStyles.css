@@ -1,0 +1,11 @@
+.ricks-iframe {
+  transform: rotate(90deg);
+  height: calc(140px + 50vmin);
+  width: calc(100px + 73vmin);
+}
+
+.ricks-iframe-container {
+  margin: 0 auto;
+  margin-top: calc(15px + 6vw);
+  text-align: center;
+}

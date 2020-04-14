@@ -1,0 +1,25 @@
+.iframe-container {
+  margin: 0 auto;
+  margin-top: calc(1px + 5vmin);
+  align-items: center;
+  text-align: center;
+}
+
+.iframe-design {
+  align-self: center;
+  margin: 0 auto;
+  height: calc(100px + 40vmin);
+  width: calc(100px + 70vmin);
+}
+
+.downtime-image-container {
+  display: flex;
+  width: 100%;
+}
+
+.downtime-image {
+  width: calc(230px + 35vmin);
+  height: calc(230px + 35vmin);
+  display: block;
+  margin: 0 auto;
+}

@@ -1,0 +1,79 @@
+.activity-indicator {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.account-page-container {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.account-page-container-mobile {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.text-style {
+  color: black;
+  font-size: 16px;
+}
+
+.profile-header {
+  flex-flow: row;
+  justify-content: space-between;
+  display: flex;
+  margin: 0 auto;
+}
+
+.profile-name {
+  font-family: Aileron;
+  color: black;
+  font-size: calc(20px + 2vmin);
+  margin-left: 0px;
+  margin-top: 0px
+}
+
+.action-container {
+  position: relative;
+  margin-right: 2px;
+  margin-top: 0.9vh;
+}
+
+.profile-actions {
+  height: calc(15px + 2vmin);
+  width: calc(15px + 2vmin);
+}
+
+.profile-buttons {
+  border:none;
+  background-color:transparent;
+  outline:none;
+}
+
+.modal-header {
+  flex-direction: row;
+  position: sticky;
+  top: -20px;
+  height: 50px;
+  display: flex;
+  background-color: white;
+  justify-content: space-between;
+}
+
+.modal-button {
+  border:none;
+  background-color:transparent;
+  outline:none;
+  margin-top: 0px;
+}
+
+.modal-title {
+  font-family: Aileron;
+  margin-top: 5px;
+  font-size: calc(20px + 2vmin);
+}
+
+.modal-close {
+  height: calc(15px + 2vmin);
+  width: calc(15px + 2vmin);
+}
