@@ -10,7 +10,7 @@
 
 # production
 /build
-/src/constants/ApiKeys.js
+/src/constants
 
 # misc
 .DS_Store
